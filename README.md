@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/thaykrgl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="thaykrgl" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/taha aykiroğlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taha aykiroğlu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/taha-ayk%C4%B1ro%C4%9Flu-589715197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taha aykiroğlu" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tahaaykiroglu99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tahaaykiroglu99" height="30" width="40" /></a>
 </p>
 
