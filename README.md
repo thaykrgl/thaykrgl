@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taha Aykıroğlu</h1>
 <h3 align="center">A passionate software developer from Istanbul/Turkey</h3>
 
-- 🌱 I’m currently learning **ASP.Net MVC & TypeScript**
+- 🌱 I’m currently learning **React.js & .Net Core**
 
 - 💬 Ask me about **HTML CSS Bootstrap**
 
