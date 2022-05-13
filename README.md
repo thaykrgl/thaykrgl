@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React.js & .Net Core**
 
-- 💬 Ask me about **HTML CSS Bootstrap**
+- 💬 Ask me about **HTML CSS Javascript**
 
 - 📫 How to reach me **tahaaykiroglu99@gmail.com**
 
