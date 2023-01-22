@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taha Aykıroğlu</h1>
-<h3 align="center">A passionate software developer from Istanbul/Turkey</h3>
+<h3 align="center">A passionate Front-End Developer from Istanbul/Turkey</h3>
 
 - 🌱 I’m currently learning **React & Tailwind**
 
