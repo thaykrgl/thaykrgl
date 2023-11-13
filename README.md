@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taha Aykıroğlu</h1>
 <h3 align="center">A passionate Front-End Developer from Istanbul/Turkey</h3>
 
-- 🌱 I’m currently learning **React Native & TypeScript**
+- 🌱 I’m currently learning **Next.js & TypeScript**
 
 - 💬 Ask me about **HTML CSS Javascript**
 
