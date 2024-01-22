@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.js & Supabase**
 
-- 💬 Ask me about **HTML CSS Javascript**
+- 💬 Ask me about **HTML CSS Javascript Vue.js**
 
 - 📫 How to reach me **tahaaykiroglu99@gmail.com**
 
