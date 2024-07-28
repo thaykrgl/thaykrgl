@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Taha Aykıroğlu</h1>
 <h3 align="center">A passionate Front-End Developer from Istanbul/Turkey</h3>
 
-- 🌱 I’m currently learning **Next.js & React Native**
+- 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **HTML CSS Javascript Vue.js**
+- 💬 Ask me about **HTML CSS Javascript React.js Vue.js**
 
 - 📫 How to reach me **tahaaykiroglu99@gmail.com**
 
