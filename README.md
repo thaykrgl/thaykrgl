@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **HTML CSS Javascript React.js Vue.js**
+- 💬 Ask me about **React.js Vue.js**
 
 - 📫 How to reach me **tahaaykiroglu99@gmail.com**
 
